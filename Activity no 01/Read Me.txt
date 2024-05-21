@@ -1,0 +1,5 @@
+=> In first Activity you just have a PC with minimum requirements given in Practical journal book.
+
+1) You just go to any browser and type a URL: "https://sourceforge.net/projects/orwelldevcpp/"
+2) Download Dev-C++ and then install the step is further given in your book its very easy to download and it is open source.
+3) After Downloading and Installing you can proceed further.
